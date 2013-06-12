@@ -1,0 +1,13 @@
+{
+	"name": "project-einstein",
+	"subdomain": "projecteinstein",
+	"description": "Rich media LMS for teachers.",
+	"version": "0.0.1",
+	"dependencies": {},
+	"scripts": {
+		"start": "node index.js"
+		},
+	"engines": {
+		"node": "0.8.x"
+	}
+}
